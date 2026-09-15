@@ -1,6 +1,6 @@
 cask "uptimelogger" do
-  version "0.2.1"
-  sha256 "ee154b621f43b99396040bd8cb6880c308bf5ac0ac66fa16b044aa4f87688066"
+  version "0.2.2"
+  sha256 "71bc9ba82b5cb49bfbf9b4df6cc6401243069a59d330c43fda4dff54dbb2136e"
 
   url "https://github.com/roughneck/uptime-logger/releases/download/v#{version}/UptimeLogger-#{version}.dmg"
   name "UptimeLogger"
